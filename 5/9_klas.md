@@ -12,55 +12,15 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="vstup.html">
-            <a href="vstup.html">
-                    <b></b>
-                Вступ
-            </a>
-    </li>
-    <li class="chapter " data-level="2" data-path="prosvytnyctvo.html">
-            <a href="prosvytnyctvo.html">
-                    <b></b>
-                Просвітництво
-            </a>
-    </li>
-    <li class="chapter " data-level="3" data-path="romantyzm.html">
-            <a href="romantyzm.html">
-                    <b></b>
-                Романтизм
-            </a>
-    </li>
-    <li class="chapter " data-level="4" data-path="realysm.html">
-            <a href="realysm.html">
-                    <b></b>
-                Реалізм
-            </a>
-    </li>
-    <li class="chapter " data-level="5" data-path="dramaturgiya.html">
-            <a href="dramaturgiya.html">
-                    <b></b>
-                Нові тенденції у драматургії кінця XIX – початку XX ст.
-            </a>
-    </li>
-    <li class="chapter " data-level="6" data-path="suchasna_lyteratura.html">
-            <a href="suchasna_lyteratura.html">
-                    <b></b>
-                Література XX–XXI ст.
-            </a>
-    </li>
-    <li class="chapter " data-level="7" data-path="pydsumky.html">
-            <a href="pydsumky.html">
-                    <b></b>
-                Підсумки
-            </a>
-    </li>
-    <li class="chapter " data-level="8" data-path="na_pamyat.html">
-            <a href="na_pamyat.html">
-                    <b></b>
-                Для вивчення напам’ять
-            </a>
-    </li>
-        </ul>
+    <li><a href="./vstup.md">Вступ</a></li>
+    <li><a href="./prosvytnyctvo.md">Просвітництво</a></li>
+    <li><a href="./romantyzm.md">Романтизм</a></li>
+    <li><a href="./realysm.md">Реалізм</a></li>
+    <li><a href="./dramaturgiya.md">Нові тенденції у драматургії кінця XIX – початку XX ст.</a></li>
+    <li><a href="./suchasna_lyteratura.md">Література XX–XXI ст.</a></li>
+    <li><a href="./pydsumky.md">Підсумки</a></li>
+    <li><a href="./na_pamyat.md">Для вивчення напам’ять</a></li>
+</ul>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

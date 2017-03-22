@@ -12,67 +12,17 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="vstup.html">
-            <a href="vstup.html">
-                    <b></b>
-                Вступ
-            </a>
-    </li>
-    <li class="chapter " data-level="2" data-path="mify_narodyv_svytu.html">
-            <a href="mify_narodyv_svytu.html">
-                    <b></b>
-                Міфи народів світу
-            </a>
-    </li>
-    <li class="chapter " data-level="3" data-path="mudryst_bayky.html">
-            <a href="mudryst_bayky.html">
-                    <b></b>
-                Мудрість байки
-            </a>
-    </li>
-    <li class="chapter " data-level="4" data-path="prygody_ta_fantastyka.html">
-            <a href="prygody_ta_fantastyka.html">
-                    <b></b>
-                Пригоди і фантастика
-            </a>
-    </li>
-    <li class="chapter " data-level="5" data-path="ludsky_stosunky.html">
-            <a href="ludsky_stosunky.html">
-                    <b></b>
-                Людські стосунки
-            </a>
-    </li>
-    <li class="chapter " data-level="6" data-path="poetychne_bakhennya_svytu.html">
-            <a href="poetychne_bakhennya_svytu.html">
-                    <b></b>
-                Поетичне бачення світу
-            </a>
-    </li>
-    <li class="chapter " data-level="7" data-path="obraz_maybutnogo_v_lyteratury.html">
-            <a href="obraz_maybutnogo_v_lyteratury.html">
-                    <b></b>
-                Образ майбутнього в літературі
-            </a>
-    </li>
-    <li class="chapter " data-level="8" data-path="suchasna_lyteratura.html">
-            <a href="suchasna_lyteratura.html">
-                    <b></b>
-                Сучасна література
-            </a>
-    </li>
-    <li class="chapter " data-level="9" data-path="pydsumky.html">
-            <a href="pydsumky.html">
-                    <b></b>
-                Підсумки
-            </a>
-    </li>
-    <li class="chapter " data-level="10" data-path="na_pamyat.html">
-            <a href="na_pamyat.html">
-                    <b></b>
-                Для вивчення напам’ять
-            </a>
-    </li>
-        </ul>
+    <li><a href="./vstup.md">Вступ</a></li>
+    <li><a href="./mify_narodyv_svytu.md">Міфи народів світу</a></li>
+    <li><a href="./mudryst_bayky.md">Мудрість байки</a></li>
+    <li><a href="./prygody_ta_fantastyka.md">Пригоди і фантастика</a></li>
+    <li><a href="./ludsky_stosunky.md">Людські стосунки</a></li>
+    <li><a href="./poetychne_bakhennya_svytu.md">Поетичне бачення світу</a></li>
+    <li><a href="./obraz_maybutnogo_v_lyteratury.md">Образ майбутнього в літературі</a></li>
+    <li><a href="./suchasna_lyteratura.md">Сучасна література</a></li>
+    <li><a href="./pydsumky.md">Підсумки</a></li>
+    <li><a href="./na_pamyat.md">Для вивчення напам’ять</a></li>
+</ul>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
